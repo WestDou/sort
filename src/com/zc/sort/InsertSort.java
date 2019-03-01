@@ -1,6 +1,7 @@
 package com.zc.sort;
 
-import java.util.Arrays;
+
+import com.zc.util.AutomaticArray;
 
 /** 
  * @Description: 插入排序

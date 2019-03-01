@@ -1,5 +1,7 @@
 package com.zc.sort;
 
+import com.zc.util.AutomaticArray;
+
 /**
  * @Description: 直接选择排序法
  * @author: zhangcheng

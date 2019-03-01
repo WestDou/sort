@@ -1,5 +1,7 @@
 package com.zc.sort;
 
+import com.zc.util.AutomaticArray;
+
 /**
  * @Description: 冒泡排序
  * @author: zhangcheng
